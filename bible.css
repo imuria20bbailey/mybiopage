@@ -1,0 +1,23 @@
+body{
+    background-image: url(./images/bright.jpg);
+}
+.container{
+      text-align: center;
+      font-weight: bold;
+      margin: 2px;
+      
+      
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 80px;
+}
+#girl,#boy,#man,#woman{
+     box-shadow: 2px 2px 2px 2px rgb(148, 138, 138);
+     padding: 2px;
+}
+h1{
+    font-style: italic;
+}
+
