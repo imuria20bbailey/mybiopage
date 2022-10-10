@@ -1,0 +1,50 @@
+#boy{
+    text-align: center;
+    color: indigo;
+}
+
+.para{
+    text-align: center;
+    font-weight: bold;
+}
+body{
+    
+}
+h3{
+    text-align: center;
+    color: indigo;
+}
+.apple{
+     background-color: blanchedalmond;
+     margin-right: 200px;
+     margin-left: 200px;
+}
+.gentle{
+    text-align: center;
+    color: indigo;
+}
+#man{
+    text-align: right;
+    font-size: large;
+    color: indigo;
+    font-style: italic;
+    margin-top: 10px;
+    padding: 2px;
+}
+.view{
+    text-align: center;
+}
+#dante{
+    text-align: center;
+    font-size: large;
+    
+}
+.image{
+    height: 250px;
+    width: 200px;
+    border-radius: 100px;
+    background-color: rgb(41, 37, 37);
+}
+.card-body{
+     background-color: #F6F4F1;
+}
